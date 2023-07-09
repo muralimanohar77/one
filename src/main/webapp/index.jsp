@@ -7,7 +7,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS last VERSION OF OUR APPLICATION</h1>	
         <h1 style="color: black; font-size: 40px;" align="center">finally deploy chesav code ne </h1>
         <h1 style="color: gray; font-size: 40px;" align="center">chudu malli try chai</h1>
-        <h1 style="color: pink; font-size: 40px;" align="center">ushuu mothaniki project chesinav</h1>
+        <h1 style="color: pink; font-size: 40px;" align="center">ushuu mothaniki project chesinav ra</h1>
 
 
 	
