@@ -6,6 +6,8 @@
 	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS NEXT VERSION OF OUR APP</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS last VERSION OF OUR APPLICATION</h1>	
         <h1 style="color: black; font-size: 40px;" align="center">finally deploy chesav code ne </h1>
+        <h1 style="color: gray; font-size: 40px;" align="center">chudu malli try chai</h1>
+
 	
 	
 	
