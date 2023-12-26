@@ -8,6 +8,7 @@
        <h1 style="color: green; font-size: 40px;" align="center">pipeline deployment</h1>	
        <h1 style="color: black; font-size: 40px;" align="center">pipeline deployment</h1>	
        <h1 style="color: black; font-size: 40px;" align="center">nexus deploy</h1>	
+       <h1 style="color: gray; font-size: 60px;" align="center">project 1</h1>	
 
 
 	
